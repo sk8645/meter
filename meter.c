@@ -4,7 +4,7 @@
 int main(int argc, char* argv[])
 {
 
-	printf("Hello man!");
+	printf("Hello women!!!");
 
 
 	return 0;
