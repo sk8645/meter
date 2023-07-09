@@ -1,0 +1,6 @@
+struct company
+{
+	char title[50]; //Name of company
+	char address[100]; // Full address of company
+
+}
